@@ -41,6 +41,13 @@ This project was developed by:
 - Coppola Carmine
 - De Martino Camilla
 
+## Mockup
+<img width="1230" alt="Ingresso" src="https://github.com/carminecoppola/ApPost-SmartCity/assets/74236426/680d1c36-07a7-410d-bd3d-be6d523a1122">
+- HomePage
+<img width="1379" alt="HomePage" src="https://github.com/carminecoppola/ApPost-SmartCity/assets/74236426/6d5c95c9-117f-4fcd-9bb3-848ceb776ebd">
+
+
+
 ## License
 
 Copyright (c) [2023] [ApPost-SmartCity]
