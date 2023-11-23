@@ -42,6 +42,7 @@ This project was developed by:
 - De Martino Camilla
 
 ## Presentaion
+Is it possible to see a short presentation of ApPost with the features explained:
 
 https://github.com/carminecoppola/ApPost-SmartCity/assets/74236426/efa6d480-8638-44df-88d3-ca4ddf4e05b5
 
@@ -53,7 +54,7 @@ All rights reserved.
 
 Duplication or reproduction, in whole or in part, in any form or by any means, is prohibited without the prior written permission of the author, except as permitted by copyright laws.
 
-The ApPost project, including all its files, documentation, and resources, is the exclusive property of [Carmine Coppola/Camilla De Martino/Vincenzo Bucciero]. Unauthorized use of these materials is prohibited.
+The ApPost project, including all its files, documentation, and resources, is the exclusive property of [**Carmine Coppola/Camilla De Martino/Vincenzo Bucciero**]. Unauthorized use of these materials is prohibited.
 
 
 
